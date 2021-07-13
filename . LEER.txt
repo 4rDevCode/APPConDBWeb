@@ -1,0 +1,5 @@
+SERVIDOR LOCAL:
+========================================
+NOMBRE DB  : DB_WEB
+USUARIO    : 4R
+CONTRASEÑA : estudioUHY2011
